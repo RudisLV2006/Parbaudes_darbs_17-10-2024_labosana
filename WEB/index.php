@@ -29,8 +29,8 @@
 
     ?>
     <ul>
-        <li><a href="contact.php">Par mums</a></li>
         <li><a href="portfolio.php">Portfolio</a></li>
+        <li><a href="contact.php">Par mums</a></li>
     </ul>
 </body>
 

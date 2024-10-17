@@ -12,7 +12,8 @@
     <h1>Portfolio</h1>
     <img src="https://img-cdn.pixlr.com/image-generator/history/65bb506dcb310754719cf81f/ede935de-1138-4f66-8ed7-44bd16efc709/medium.webp"
         alt="Ai cat" style="width: 300px;" id="image">
-    <br><button id="button">
+    <br>
+    <button id="button">
         Paslēpt
     </button>
     <h2>Mani projekti!</h2>
@@ -27,8 +28,8 @@
     </ol>
 
     <ul>
-        <li><a href="contact.php">Par mums</a></li>
         <li><a href="index.php">Reģistretie</a></li>
+        <li><a href="contact.php">Par mums</a></li>
     </ul>
 
     <script src="app.js"></script>
